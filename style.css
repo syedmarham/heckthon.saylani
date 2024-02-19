@@ -1,0 +1,82 @@
+.button-wrapper{
+    width: 150px;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 6px;
+    
+}
+.logo{
+ display: flex;
+ justify-content: right;
+ gap: 10px;
+}
+
+.navbars{
+    display: flex;
+}
+
+
+
+.phone{
+    color: gray;
+}
+
+.number{
+    color: black;
+    text-decoration: none;
+}
+
+.mail{
+    color: black;
+}
+
+.appoinment{
+    color: rgb(232, 48, 204);
+}
+
+element.style {
+    background-image: url(https://preview.colorlib.com/theme/petvet/images/bg_1.jpg);
+    height: 356px;
+    background-position: 50% 0%;
+}
+.hero-wrap {
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+element.style {
+    background-image: url(https://preview.colorlib.com/theme/petvet/images/bg_1.jpg);
+    height: 356px;
+    background-position: 50% 0%;
+}
+.main-wrap {
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.btn-first-button{
+    background-color: #f04d68;
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+.btn-button{
+    background-color: rgb(41, 201, 41);
+    text-decoration: none;
+    color: #fff;
+}
+.cards{
+    width: 1200px;
+    height: 200px;
+    justify-content: center;
+}
